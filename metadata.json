@@ -1,0 +1,6 @@
+{
+  "name": "Nexa Earn",
+  "description": "Production-ready mobile-first earning platform with tasks, spins, deposits, withdrawals, and referrals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
